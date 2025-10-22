@@ -3,7 +3,7 @@ import { gql } from "apollo-server-express";
 import { productResolver } from "./productResolver";
 
 /**
- * GraphQL type definitions and resolvers registration.
+ * GraphQL type definitions and resolvers registration. 
  * Exports typeDefs and resolvers to be used by Apollo Server.
  */
 
